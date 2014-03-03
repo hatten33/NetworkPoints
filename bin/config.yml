@@ -1,0 +1,6 @@
+database:
+  ip: 127.0.0.1
+  port: port
+  dbname: minecraft
+  user: bukkit
+  pass: password
